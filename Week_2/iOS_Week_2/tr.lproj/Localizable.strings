@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  iOS_Week_2
+
+  Created by Burhan Alışkan on 10.10.2021.
+  
+*/
+
+"cameraPermissionTitle" = "Kamera Izni";
+"cameraPermissionSubTitle" = "Lutfen kameraniza erisim icin uygulamaya izin veriniz.";
+
+"photoPermissionTitle" = "Galeri Izni";
+"photoPermissionSubTitle" = "Lutfen galerinize erisim icin uygulamaya izin veriniz.";
+
+"permissionOk" = "Tamam";
+"permissonNotNow" = "Simdi Degil";
+
+"camera" = "Kamera";
+"photo" = "Galeri";

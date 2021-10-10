@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  iOS_Week_2
+
+  Created by Burhan Alışkan on 10.10.2021.
+  
+*/
+
+"cameraPermissionTitle" = "Camera Permission";
+"cameraPermissionSubTitle" = "Would you please give permission to access yout camera.";
+
+"photoPermissionTitle" = "Photo Permission";
+"photoPermissionSubTitle" = "Would you please give permission to access yout photos.";
+
+"permissionOk" = "OK";
+"permissonNotNow" = "Not Now";
+
+"camera" = "Camera";
+"photo" = "Photos";
